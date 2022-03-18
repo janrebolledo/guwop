@@ -15,12 +15,12 @@ import UOF from "../public/Trusted-By/UOF.png";
 
 import styles from "../styles/home.module.css";
 
-import Post1 from "../public/Instagram/Post (12).jpg";
-import Post2 from "../public/Instagram/Post (11).jpg";
-import Post3 from "../public/Instagram/Post (9).jpg";
-import Post4 from "../public/Instagram/Post (8).jpg";
-import Post5 from "../public/Instagram/Post (7).jpg";
-import Post6 from "../public/Instagram/Post (6).jpg";
+import Post1 from "../public/Instagram/Post12.jpg";
+import Post2 from "../public/Instagram/Post11.jpg";
+import Post3 from "../public/Instagram/Post9.jpg";
+import Post4 from "../public/Instagram/Post8.jpg";
+import Post5 from "../public/Instagram/Post7.jpg";
+import Post6 from "../public/Instagram/Post6.jpg";
 
 export default function Home() {
   return (
