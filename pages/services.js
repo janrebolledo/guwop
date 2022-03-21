@@ -1,3 +1,4 @@
+import Head from "next/head";
 import Link from "next/link";
 
 import styles from "../styles/contact.module.css";
@@ -5,6 +6,9 @@ import styles from "../styles/contact.module.css";
 export default function Services() {
   return (
     <main className="bg-zinc-900 flex flex-col justify-center">
+      <Head>
+        <title>Guwop — Social Media Manager</title>
+      </Head>
       <section className="flex px-8 md:px-24 flex-col justify-center bg-zinc-900 text-white mt-48 mb-8">
         <div className="w-full flex flex-col md:flex-row justify-between">
           <h1 className="font-bold text-2xl">SERVICES</h1>
