@@ -85,7 +85,7 @@ export default function Footer() {
       </div>
       <div className="flex flex-row w-full justify-between">
         <p>COPYRIGHT © 2022 JAMES CAMERON</p>
-        <p>
+        <p className="text-right">
           DIGITAL EXPERIENCE BY{" "}
           <span className="underline">
             <Link href="https://janrebolledo.com" passHref>
