@@ -114,10 +114,7 @@ export default function Home() {
           <div className="flex flex-row w-full justify-between items-end text-sm text-stone-400 font-bold basis-1/12">
             <div>
               <p>TRUSTED BY</p>
-              <div className="flex flex-row">
-                <div className="mr-4">
-                  <Image src={OT} width={24} height={24} alt="Overtime" />
-                </div>
+              <div className="flex flex-row">   
                 <div className="mr-4">
                   <Image src={Parallel} width={24} height={24} alt="Parallel" />
                 </div>
