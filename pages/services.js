@@ -38,9 +38,9 @@ export default function Services() {
           <h2 className="font-bold mt-2">BRAND GROWTH</h2>
           <p>
             CONSTANTLY CREATING AND DEVELOPING PERSONALITIES WITHIN YOUR BRAND.
-            CREATING ENGAGING TO MAKE MEMBERS OF YOUR COMMUNITY FEEL INVOLVED.
-            FINDING WHAT&apos;S NEW AND TRENDING TO KEEP YOUR BRAND FRESH AND
-            TIMELESS.
+            CREATING ENGAGING CONTENT TO MAKE MEMBERS OF YOUR COMMUNITY FEEL
+            INVOLVED. FINDING WHAT&apos;S NEW AND TRENDING TO KEEP YOUR BRAND
+            FRESH AND TIMELESS.
           </p>
         </div>
       </section>
